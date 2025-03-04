@@ -1,1 +1,1 @@
-# cursor_ai
+# cursor_ai# Cursor AI
